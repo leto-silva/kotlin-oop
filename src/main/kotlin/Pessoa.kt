@@ -1,5 +1,6 @@
 class Pessoa {
     var nome:String = "Leto"
+    var sobrenome:String ="XXXX"
 }
 
 fun main(){
